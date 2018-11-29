@@ -474,7 +474,7 @@ def interactive_prompt():
 
 # Make sure nothing runs or prints out when this file is run as a module
 if __name__=="__main__":
-    #insert_test()
+    insert_test()
     #process_command('regions sources bars_sold top=5')
     interactive_prompt()
     pass
